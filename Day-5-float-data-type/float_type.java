@@ -3,4 +3,4 @@ public class float_type {
         float f = 12.5f;
         System.out.println(f);
     }
-}
+};

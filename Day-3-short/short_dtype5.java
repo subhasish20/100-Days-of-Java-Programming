@@ -4,4 +4,4 @@ public class short_dtype5 {
         short s = true; // it will through an error 
         System.out.println(s);
     }
-}
+};

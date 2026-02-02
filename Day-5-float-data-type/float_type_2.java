@@ -5,4 +5,4 @@ public class float_type_2 {
 
         System.out.println(f);
     }
-}
+};

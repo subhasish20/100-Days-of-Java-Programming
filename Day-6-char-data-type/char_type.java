@@ -3,4 +3,4 @@ public class char_type {
         char c = 'A';
         System.out.println(c);
     }
-}
+};

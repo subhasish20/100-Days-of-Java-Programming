@@ -4,4 +4,4 @@ public class int_type1 {
         System.out.println(a);
 
     }
-}
+};

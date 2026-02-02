@@ -3,4 +3,4 @@ public class int_type {
         int a = 5;
         System.out.println(a); // valid
     }
-}
+};

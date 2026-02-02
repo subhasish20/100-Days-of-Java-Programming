@@ -4,4 +4,4 @@ public class short_dtype3
         short s = 32767; // valid
         System.out.println(s);
     }
-}
+};
