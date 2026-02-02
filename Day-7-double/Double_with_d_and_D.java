@@ -9,4 +9,4 @@ class Double_with_d_and_D
 		double y = 1234.987d;
 		System.out.println(y); // it will display the value of y
 	}
-}
+};

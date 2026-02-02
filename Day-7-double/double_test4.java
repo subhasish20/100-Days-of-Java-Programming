@@ -6,4 +6,4 @@ class double_test4
 		System.out.println(d);		
 		
 	}
-}
+};

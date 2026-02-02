@@ -7,4 +7,4 @@ class double_test5
 		double D = 07777;
 		System.out.println(D); // it will print 07777 without any error
 	}
-}
+};

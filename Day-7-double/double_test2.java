@@ -5,4 +5,4 @@ class double_test2
 		double d = 0123.26; // valid 
 		System.out.println(d);
 	}
-}
+};

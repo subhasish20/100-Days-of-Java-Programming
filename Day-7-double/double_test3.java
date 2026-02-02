@@ -4,4 +4,4 @@ class double_test3
 	{
 		double d = 0X12.305; // it will give an error (C.E. :- malformed floating point literals)
 	}
-}
+};
