@@ -6,7 +6,7 @@ public class test
     public static void main(String[] args) {
 
         int[] x; // array declaratin
-
+    
         x = new int[3]; // array creation
 
         // array initialization
@@ -14,6 +14,6 @@ public class test
         x[1] = 6;
         x[2] = 7;
 
-        System.out.println(x[0]); // 5
+        System.out.println(x[0]); // 5  
     }
 }
