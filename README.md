@@ -15,21 +15,7 @@ This repository documents a journey of consistent learning and coding in Java. W
 - **Interview Prep**: Covers fundamental concepts often asked in technical interviews.
 - **Hands-on Practice**: Each day includes runnable code examples.
 
-## 🗺️ Roadmap & Progress
 
-| Day | Topic | Key Concepts | Status |
-| :--- | :--- | :--- | :--- |
-| **[Day 1](Day-1-Intro/)** | **Introduction** | Hello World, Basic Output | ✅ Completed |
-| **[Day 2](Day-2-byte/)** | **Byte Data Type** | Memory efficiency, small integers | ✅ Completed |
-| **[Day 3](Day-3-short/)** | **Short Data Type** | 16-bit integers, specific use cases | ✅ Completed |
-| **[Day 4](Day-4-integer-data_type/)** | **Integer Data Type** | Standard counting, arithmetic | ✅ Completed |
-| **[Day 5](Day-5-float-data-type/)** | **Float Data Type** | Decimal precision, floating-point math | ✅ Completed |
-| **[Day 6](Day-6-char-data-type/)** | **Char Data Type** | ASCII, Unicode characters | ✅ Completed |
-| **[Day 7](Day-7-double/)** | **Double Data Type** | High-precision decimals | ✅ Completed |
-| **[Day 8](Day-8-Boolean/)** | **Boolean Data Type** | Logic gates, True/False flags | ✅ Completed |
-| **[Day 9](Day-9-char/)** | **Char Advanced** | More on character manipulation | ✅ Completed |
-| **[Day 10](Day-10-long/)** | **Long Data Type** | Handling large numbers (timestamps, IDs) | ✅ Completed |
-| ... | ... | ... | 🚧 In Progress |
 
 ## 🚀 Getting Started
 
